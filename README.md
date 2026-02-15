@@ -22,7 +22,7 @@ We convert EXE to MSI because MSI is the standard Windows Installer format used 
 
 Using centralized deployment tools like SCCM or Intune. The admin uploads the MSI package, targets device groups, and the tool pushes silent installation to all machines automatically.
 
-TRP --> ISM
+IRP --> ISM
 ----------------------------------------------------------------------------
 
 Steps:
